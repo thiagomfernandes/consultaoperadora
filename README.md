@@ -8,8 +8,8 @@ WebCrawler em C# ASP.NET MVC 5 para consulta de operadora a partir de um número
 Funcionalidades
 --------
 
-- Obtem a operadora atual
-- Obtém a informação se foi feita a portabilidade ou não
+- Obtém a operadora atual
+- Obtém a informação se foi realizada a portabilidade
 
 
 Como usar
