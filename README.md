@@ -1,7 +1,7 @@
 Consulta de operadora
 =======================
 
-WebCrawler em C# ASP.NET MVC para consulta de operadora a partir de um numero de telefone.
+WebCrawler em C# ASP.NET MVC 5 para consulta de operadora a partir de um número de telefone.
 
 
 
@@ -16,7 +16,8 @@ Como usar
 ----------
 
 Após configurar o ambiente, atualize os pacotes NuGet
-A URL para acesso na máquina local seria algo como http://localhost:2022/ConsultaOperadora/Consulta/11988887777
+A URL para acesso na máquina local seria algo como http://localhost:2022/ConsultaOperadora/Consulta/DDD+TELEFONE
+
 O número deve ser informado com DDD (2 digitos) e telefone (8 ou mais digitos, sem hifen, espaço ou qualquer outro caractere)
 
 
